@@ -1,9 +1,12 @@
 # github-usage
 github创建与上传本地文件
+
 一.创建很简单
+
   直接在登录首页，点击new repository————（选中公开public）————然后点击create repository创建仓库
   
 二.上传本地文件
+
   1.在桌面创建一个文件，把要上传的东西放在文件里
   2.启动git Bash代码编辑框
   3.cd到创建的文件夹中//（cd desktop / cd 文件名）
