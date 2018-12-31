@@ -24,3 +24,13 @@ github创建与上传本地文件
   8.git push origin master//把本地库的所有内容推送到远程库上
 
 完成传送，刷新页面可见！！！
+
+三.下载那就更简单了
+
+  有2种方法，可能更多：
+  
+  方法一：直接download
+  
+  方法二：和上传本地文件前三个步骤一样，cd到创建文件夹中，接着git clone https://github.com/15171222839/github-usage.git
+  
+ 任务完成！
