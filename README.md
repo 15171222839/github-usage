@@ -31,6 +31,6 @@ github创建与上传本地文件
   
   方法一：直接download
   
-  方法二：和上传本地文件前三个步骤一样，cd到创建文件夹中，接着git clone https://github.com/15171222839/github-usage.git
+  方法二：和上传本地文件前三个步骤一样，cd到创建文件夹中，接着git clone https://github.com/15171222839/github-usage.git（需要下载的链接）
   
  任务完成！
